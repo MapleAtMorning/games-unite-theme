@@ -1,0 +1,21 @@
+{
+  "name": "games-unite-theme",
+  "displayName": "Games Unite Theme",
+  "description": "Visual Studio Code theme with the Games Unite colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Games Unite Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Games Unite Theme-color-theme.json"
+      }
+    ]
+  }
+}
