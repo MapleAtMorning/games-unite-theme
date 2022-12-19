@@ -2,19 +2,37 @@
   "name": "games-unite-theme",
   "displayName": "Games Unite Theme",
   "description": "Visual Studio Code theme with the Games Unite colors",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "MapleAtMorning",
+  "icon": "icon.jpg",
   "engines": {
     "vscode": "^1.74.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/MapleAtMorning/games-unite-theme"
+	},
+  "bugs": {
+		"url": "https://github.com/MapleAtMorning/games-unite-theme/issues"
+	},
+  "galleryBanner": {
+		"color": "#1d2529",
+		"theme": "dark"
+	},
+  "keywords": [
+		"theme",
+		"dark",
+    "games unite"
+	],
   "contributes": {
     "themes": [
       {
         "label": "Games Unite Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Games Unite Theme-color-theme.json"
+        "path": "./themes/GamesUniteTheme-color-theme.json"
       }
     ]
   }
