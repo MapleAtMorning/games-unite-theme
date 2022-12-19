@@ -66,7 +66,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#cccccc8c"
 			}
 		},
 		{
@@ -126,7 +126,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#c4d8fd"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#6f9bec"
 			}
 		},
 		{
@@ -159,7 +159,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#89DDFF"
 			}
 		},
 		{
@@ -200,7 +200,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#F78C6C"
 			}
 		},
 		{
@@ -289,7 +289,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#89DDFF"
 			}
 		},
 		{
@@ -300,7 +300,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#89DDFF"
 			}
 		},
 		{
